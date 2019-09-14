@@ -37,6 +37,7 @@
 
 ## Contents
 
+- [iTerm2 setup](https://medium.com/@jessesrsmith/five-tips-for-iterm-91db83cf4d4e)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
