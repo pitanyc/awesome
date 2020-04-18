@@ -108,6 +108,7 @@
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 - [Free Public APIs](https://github.com/public-apis/public-apis) - Public APIs is a great list of free APIs that you can use for your projects and applications. It covers various topics such as business, anime, animals, news, finance, games, and more.
+- [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) - This repository contains useful notes and tips on using the command line when working on Linux.
 
 
 ## Programming Languages
