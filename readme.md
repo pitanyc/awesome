@@ -107,6 +107,7 @@
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+- [Free Public APIs](https://github.com/public-apis/public-apis) - Public APIs is a great list of free APIs that you can use for your projects and applications. It covers various topics such as business, anime, animals, news, finance, games, and more.
 
 
 ## Programming Languages
